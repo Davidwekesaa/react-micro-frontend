@@ -8,7 +8,7 @@ import Footer from "container/Footer"
 const App = () => (
   <div className="container">
     <Header/>
-    <div className="my">pdp react</div>
+    <div className="my">the pdp react microfronts</div>
     
     <Footer/>
   </div>
